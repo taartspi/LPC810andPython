@@ -1,0 +1,17 @@
+.metadata
+
+.gitignore.swp
+*.swp
+*.classpath
+*/.project
+*/.settings/
+*/bin/
+*~
+*.pyc
+LPC/workspace/LPC810_CodeBase/.cproject
+LPC/workspace/LPC810_CodeBase/.project
+LPC/workspace/LPC810_CodeBase/.settings/
+LPC/workspace/LPC810_CodeBase/README.md
+LPC/workspace/LPC810_CodeBase/Release/
+LPC/workspace/LPC810_CodeBase/doc/
+

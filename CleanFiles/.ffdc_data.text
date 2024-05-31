@@ -1,0 +1,22 @@
+
+Iterating through FFDC elements..<level: 1>
+  Entry text [Tabs on next line]  
+  Entry text [Tabs on next line,             after tabs.]  
+  Entry text [Tabs on next line,             after tabs., Next ends with three spaces]  
+  Entry text [Tabs on next line,             after tabs., Next ends with three spaces, the end]  
+
+
+Iterating through FFDC elements..<level: 1>
+  Entry text [Tabs on next line]  
+  Entry text [Tabs on next line,             after tabs.]  
+  Entry text [Tabs on next line,             after tabs., Next ends with three spaces]  
+  Entry text [Tabs on next line,             after tabs., Next ends with three spaces, the end]  
+
+
+Iterating through FFDC entries elements...
+  Entry  Directory /home/taarts/workspace/CleanFiles/Tests/TabSpaceResult  
+  Entry walkPath : /home/taarts/workspace/CleanFiles/Tests/TabSpaceResult  
+  Entry  folder /home/taarts/workspace/CleanFiles/Tests/TabSpaceResult  
+  Entry Opened file /home/taarts/workspace/CleanFiles/Tests/TabSpaceResult  
+  Entry entered processFile  file: TabSpaceResult suffix:   
+

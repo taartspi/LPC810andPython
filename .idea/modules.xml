@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CleanFiles/CleanFiles.iml" filepath="$PROJECT_DIR$/CleanFiles/CleanFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemoveProlog/RemoveProlog.iml" filepath="$PROJECT_DIR$/RemoveProlog/RemoveProlog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/repository.iml" filepath="$PROJECT_DIR$/.idea/repository.iml" />
+    </modules>
+  </component>
+</project>
